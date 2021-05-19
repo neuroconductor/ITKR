@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkCompileFlags.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkDir.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkIncludes.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkLibs.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkTag.html</loc>
+  </url>
+  <url>
+    <loc>/reference/itkVersion.html</loc>
+  </url>
+  <url>
+    <loc>/reference/softwareVersions.html</loc>
+  </url>
+</urlset>
