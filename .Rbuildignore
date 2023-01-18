@@ -16,3 +16,7 @@ travis-tool\.sh\.cmd$
 ^_pkgdown\.yml$
 ^docs$
 ^\.github$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
